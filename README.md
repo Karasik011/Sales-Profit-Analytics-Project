@@ -32,7 +32,7 @@ The goal is to explore sales dynamics, identify anomalies, and provide data-driv
 ## 🗂️ Files
 - `Sales_Analysis.ipynb` – full code & visualizations  
 - `report.docx` – business interpretation report  
-- `data/` – CSV files (anonymized or sample data)  
+- `products.csv, countries.csv, events.csv` – CSV files (anonymized or sample data)  
 
 ---
 
