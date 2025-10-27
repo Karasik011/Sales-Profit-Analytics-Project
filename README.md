@@ -30,10 +30,9 @@ The goal is to explore sales dynamics, identify anomalies, and provide data-driv
 ---
 
 ## 🗂️ Files
-- `notebook/Sales_Profit_Analysis.ipynb` – full code & visualizations  
-- `report/Sales_Profit_Analysis_Report.docx` – business interpretation report  
-- `data/` – CSV files (anonymized or sample data)
-- `images/` – charts from analysis  
+- `Sales_Analysis.ipynb` – full code & visualizations  
+- `report.docx` – business interpretation report  
+- `data/` – CSV files (anonymized or sample data)  
 
 ---
 
